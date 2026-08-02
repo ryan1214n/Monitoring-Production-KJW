@@ -1,0 +1,39 @@
+{
+  "name": "Dashboard Produksi Kelapa Sawit - PT. KJW",
+  "short_name": "Produksi KJW",
+  "description": "Dashboard pemantauan produksi kelapa sawit: input harian, laboratorium, rekap bulanan, dan konfigurasi standar mutu.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1117",
+  "theme_color": "#0b1117",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "icons/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
